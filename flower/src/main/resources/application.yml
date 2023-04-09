@@ -1,0 +1,28 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/flower?characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 123456
+  thymeleaf:
+    prefix: classpath:/page/
+    suffix: .html
+    mode: HTML5
+    encoding: UTF-8
+    cache: false
+  resources:
+    chain:
+      strategy:
+        content:
+          enabled: true  # 开启版本控制策略，默认为false
+          paths: /**     # 指定要应用的版本的路径，多个以逗号分隔，默认为:[/**]
+mybatis:
+  type-aliases-package: com.hide.backend.entity
+#logging:
+#  level:
+#    com:
+#      hide:
+#        backend:
+#          dao: debug
+

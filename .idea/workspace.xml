@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5adcd194-2ccb-4702-b9a3-0a39a0c6e93b" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HiJsPXq1l4sWbqRiqFLUd8Pc1e" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IDEA/uni/uniApp-shop-main/shop_backend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;608f0b988db4a96066af7dd8870de96c&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\software\\IntelliJ IDEA 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Practical training\ssm\flowers-mall-master\flower\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SysApplication">
+    <configuration name="FlowerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="flower" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.flower.FlowerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="flower" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hide.backend.SysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/flower-ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="Spring Boot.FlowerApplication" />
+      <item itemvalue="Spring Boot.SysApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5adcd194-2ccb-4702-b9a3-0a39a0c6e93b" name="变更" comment="" />
+      <created>1668762179364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668762179364</updated>
+      <workItem from="1668762180680" duration="11800000" />
+      <workItem from="1668819611468" duration="4304000" />
+      <workItem from="1668863038281" duration="252000" />
+      <workItem from="1668863399743" duration="22172000" />
+      <workItem from="1669041123153" duration="9970000" />
+      <workItem from="1669266521695" duration="21382000" />
+      <workItem from="1669558408992" duration="65114000" />
+      <workItem from="1670036778893" duration="92000" />
+      <workItem from="1670036898463" duration="10000" />
+      <workItem from="1670039473213" duration="71000" />
+      <workItem from="1670039832521" duration="128000" />
+      <workItem from="1670129538146" duration="4192000" />
+      <workItem from="1670222493504" duration="4843000" />
+      <workItem from="1670230581360" duration="6000" />
+      <workItem from="1670246679915" duration="1027000" />
+      <workItem from="1670309599483" duration="45000" />
+      <workItem from="1670573832865" duration="635000" />
+      <workItem from="1671245947754" duration="4011000" />
+      <workItem from="1672229674288" duration="39000" />
+      <workItem from="1672230160858" duration="6000" />
+      <workItem from="1672901816114" duration="3008000" />
+      <workItem from="1680961288744" duration="3782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
